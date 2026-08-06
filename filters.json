@@ -1,19 +1,16 @@
 {
   "schema_version": 1,
   "depthTwos": [
-    "시스템_네트워크",
-    "서비스_상품기획"
+    "웹디자인",
+    "UXUI_프로덕트",
+    "디자인리서치",
+    "그래픽_시각",
+    "서비스_상품기획",
+    "사업_전략기획",
+    "PM_PO"
   ],
   "regions": [],
-  "employeeTypes": [
-    "체험형인턴",
-    "전환형인턴",
-    "정규직",
-    "계약직",
-    "일용직",
-    "프리랜서",
-    "병역특례"
-  ],
+  "employeeTypes": [],
   "careerMin": 0,
   "careerMax": 10,
   "includeCareerOpen": true,

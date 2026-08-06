@@ -1,8 +1,19 @@
 {
   "schema_version": 1,
-  "depthTwos": [],
+  "depthTwos": [
+    "시스템_네트워크",
+    "서비스_상품기획"
+  ],
   "regions": [],
-  "employeeTypes": [],
+  "employeeTypes": [
+    "체험형인턴",
+    "전환형인턴",
+    "정규직",
+    "계약직",
+    "일용직",
+    "프리랜서",
+    "병역특례"
+  ],
   "careerMin": 0,
   "careerMax": 10,
   "includeCareerOpen": true,

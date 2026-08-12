@@ -1,12 +1,33 @@
 {
   "schema_version": 1,
-  "depthTwos": [],
-  "regions": [],
-  "employeeTypes": [],
+  "depthTwos": [
+    "상품기획",
+    "웹디자인",
+    "UXUI_프로덕트",
+    "그래픽_시각",
+    "기타디자인",
+    "PM_PO",
+    "서비스_상품기획"
+  ],
+  "regions": [
+    "경기",
+    "인천"
+  ],
+  "employeeTypes": [
+    "정규직"
+  ],
   "careerMin": 0,
-  "careerMax": 10,
+  "careerMax": 1,
   "includeCareerOpen": true,
-  "educations": [],
-  "companyTypes": [],
+  "educations": [
+    "학사",
+    "전문대졸",
+    "고졸",
+    "석사"
+  ],
+  "companyTypes": [
+    "중소기업",
+    "공공기관"
+  ],
   "deadlineTypes": []
 }

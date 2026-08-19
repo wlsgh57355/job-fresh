@@ -3,27 +3,33 @@
   "depthTwos": [
     "웹디자인",
     "UXUI_프로덕트",
-    "디자인리서치",
-    "그래픽_시각"
+    "그래픽_시각",
+    "PM_PO"
   ],
   "regions": [
+    "인천",
     "경기"
   ],
   "employeeTypes": [
-    "정규직"
+    "정규직",
+    "전환형인턴"
   ],
   "careerMin": 0,
   "careerMax": 1,
   "includeCareerOpen": true,
   "educations": [
-    "학사",
     "무관",
     "고졸",
-    "전문대졸"
+    "전문대졸",
+    "학사",
+    "석사",
+    "박사"
   ],
   "companyTypes": [
     "중소기업",
-    "공공기관"
+    "공공기관",
+    "스타트업",
+    "중견기업"
   ],
   "deadlineTypes": []
 }
